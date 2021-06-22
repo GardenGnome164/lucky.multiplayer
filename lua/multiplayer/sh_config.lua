@@ -1,0 +1,1 @@
+MULTI = MULTI or {}
