@@ -1,2 +1,3 @@
 # lucky.multiplayer
- In progress multiplayer bungee-cord-style addon for Garry's Mod
+## Goal?
+With this project I hope to create an open source script that allows for multiplayer servers and matchmaking on Garry's Mod.
